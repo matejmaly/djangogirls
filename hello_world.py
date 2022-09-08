@@ -1,4 +1,4 @@
-print('Ahoj Matej!')
+print('Ahoj!')
 
 # b7b692aff0edf34bb881cb7c8d053a3f6d79433a
 
